@@ -29,7 +29,7 @@ while True:
     elif(dugme=="5"):
         print(kumanda)
     elif(dugme=="6"):
-        len(kumanda)
+        print(len(kumanda))
     elif(dugme=="7"):
         kumanda.kanalEkle()
     else:
