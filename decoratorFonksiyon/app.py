@@ -16,6 +16,6 @@ def kareHesapla(sayilar):
         sonuc.append(i**2)
     return sonuc
 
-kareHesapla(range(100000))
+kareHesapla(range(10000000))
 
 #raise "Hata Fırlatıldı mı?"
