@@ -20,3 +20,12 @@ Zaman İşlemleri
 sonrakiGun=saniye+(24*60*60)
 oncekiGun=saniye-(24*60*60)
 print("Önceki Gün: {} \nSonraki Gün: {}".format(datetime.fromtimestamp(oncekiGun).strftime("%d %B %Y"), datetime.fromtimestamp(sonrakiGun).strftime("%d %B %Y")))
+
+
+
+
+
+
+
+
+
